@@ -1,4 +1,4 @@
-package fr.abes.periscope.periscope;
+package fr.abes.periscope;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
